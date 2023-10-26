@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Water Quality Control</string>
+    <string name="first_fragment_label">Live Monitoring</string>
+    <string name="second_fragment_label">Controllery7</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_live_monitoring">Live Monitoring</string>
+    <string name="button_controller">Controller</string>
+    <string name="title_water_quality_controlling">Water Quality Controlling</string>
+    <string name="tambak_udang">Tambak Udang</string>
+    <string name="place">Tlogomas, Malang</string>
+    <string name="temp">Temp</string>
+    <string name="ph">pH</string>
+    <string name="oxigen">O²</string>
+    <string name="tds">TDS</string>
+    <string name="salinity">Salinity</string>
+    <string name="amonia">Amonia</string>
+
+    <string name="temp_data">%1$s \u2103</string>
+    <string name="ph_data">%1$s</string>
+    <string name="oxigen_data">%1$s mg/L</string>
+    <string name="tds_data">%1$s ppm</string>
+    <string name="salinity_data">%1$s ppt</string>
+    <string name="amonia_data">%1$s mg/L</string>
+</resources>
